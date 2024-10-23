@@ -46,4 +46,4 @@ while True:
         print("\nParabéns Você acertou a palavra\n")
         break
 
-    print("testando algo")
+    
